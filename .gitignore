@@ -1,2 +1,6 @@
 .idea
 spritpreise/config.json
+spritpreise/date_enviro_03x.db
+spritpreise/sql_stephan_sql.py
+spripreise/Dash_stephan.py
+spritpreise/__pycache__
